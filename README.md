@@ -1,2 +1,1 @@
-# -stable-diffusion-webui-localizationCN
-Stable Diffusion web UI localizationCN
+Stable Diffusion web UI 中文本地化

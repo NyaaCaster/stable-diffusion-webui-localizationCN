@@ -1,4 +1,4 @@
-# Stable Diffusion web UI 中文本地化 ![](https://img.shields.io/github/stars/NyaaCaster/FisherHunter?style=social)
+# Stable Diffusion web UI 中文本地化
 
 ## 文件下载地址
 

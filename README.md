@@ -1,4 +1,4 @@
-# Stable Diffusion web UI 中文本地化
+# Stable Diffusion web UI 文本汉化
 
 ## 文件下载地址
 
